@@ -1,3 +1,3 @@
 # README
 
-This is the official website for PCPI2M workshop, ACM MM 2023.
+This is the official website for PCPI2M workshop, IEEE ICME 2023.
